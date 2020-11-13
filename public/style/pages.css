@@ -2,11 +2,6 @@
     font-family: 'Cinzel', serif;
 }
 
-#signature {
-    font-family: 'Cedarville Cursive', cursive;
-    color: white;
-}
-
 #body {
     background-image: url("../images/lines-abstract-background-point-scheme-background-free.jpg");
     background-size: cover;
@@ -19,5 +14,23 @@
 }
 
 .header{
-    background-color:#272c42;
+    opacity: .5;
+}
+
+#footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        opacity: .2;
+}
+
+#signature {
+    font-family: 'Cedarville Cursive', cursive;
+    color: rgb(248, 66, 66);
+}
+
+.computer-icon{
+    background-image: url("../images/62825-desktop-computer-icon.png");
 }
