@@ -7,7 +7,9 @@ const Nabtabs = () => {
 
     return (
 
-        <ul className="nav nav-tabs">
+        <div className="header card">
+        <div className="card-body">
+        <ul className="nav nav-tabs top-bar">
             <li className="nav-item">
                 <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
                     Home
@@ -24,6 +26,11 @@ const Nabtabs = () => {
                 </Link>
             </li>
         </ul>
+          <div className="container">
+            <h3 id="signature">Jonathan Peach</h3>
+          </div>
+        </div>
+      </div>
 
     );
 };

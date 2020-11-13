@@ -1,0 +1,23 @@
+.font {
+    font-family: 'Cinzel', serif;
+}
+
+#signature {
+    font-family: 'Cedarville Cursive', cursive;
+    color: white;
+}
+
+#body {
+    background-image: url("../images/lines-abstract-background-point-scheme-background-free.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top-bar {
+    opacity: .8;
+    float: right;
+}
+
+.header{
+    background-color:#272c42;
+}
