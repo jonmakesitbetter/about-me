@@ -1,0 +1,43 @@
+.font {
+    font-family: 'Cinzel', serif;
+}
+
+#body {
+    background-image: url("../images/lines-abstract-background-point-scheme-background-free.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top-bar {
+    opacity: .8;
+    float: right;
+}
+
+.header{
+    opacity: .5;
+}
+
+#footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        opacity: .2;
+}
+
+#signature {
+    font-family: 'Cedarville Cursive', cursive;
+    color: rgb(248, 66, 66);
+}
+
+.welcome{
+    opacity: .5;
+    margin: 2rem;
+}
+
+.email-phone{
+    text-align: center;
+    color: rgb(245, 173, 91);
+    margin-top: 16rem;
+}

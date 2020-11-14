@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/pages/project.css"],"names":[],"mappings":"AAAA,cACI,WACJ,CAEA,eACI,WAAY,CACZ,UACJ","file":"main.0b984d1d.chunk.css","sourcesContent":[".project-card{\r\n    margin: 3rem;\r\n}\r\n\r\n.project-image{\r\n    height: 100%;\r\n    width: 100%;\r\n}"]}
