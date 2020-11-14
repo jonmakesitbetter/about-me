@@ -1,25 +1,25 @@
 [
     {
         "siteLink": "https://jonmakesitbetter.github.io/Project-1/",
-        "image": "../images/TonedTribe.png",
+        "image": "/images/TonedTribe.png",
         "name": "Toned Tribe",
         "github": "https://github.com/jonmakesitbetter/Project-1"
     },
     {
         "siteLink": "https://jonmakesitbetter.github.io/Work_Day_Planner/",
-        "image": "../images/Planner.png",
+        "image": "/images/Planner.png",
         "name": "Work Day Planner",
         "github": "https://github.com/jonmakesitbetter/Work_Day_Planner"
     },
     {
         "siteLink": "https://jonmakesitbetter.github.io/random_password_generator/",
-        "image": "../images/PasswordGenerator.png",
+        "image": "/images/PasswordGenerator.png",
         "name": "Random Password Generator",
         "github": "https://github.com/jonmakesitbetter/random_password_generator"
     },
     {
         "siteLink": "https://note-taker-app-jp.herokuapp.com/",
-        "image": "../images/noteTaker.png",
+        "image": "/images/noteTaker.png",
         "name": "Note Taker Application",
         "github": "https://github.com/jonmakesitbetter/note_taker_app"
     }
