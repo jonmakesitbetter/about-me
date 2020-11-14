@@ -1,15 +1,26 @@
-import React from 'react';
+import React from "react";
+import projects from "../../projects.json";
+import Project from "./Project";
 
 const Portfolio = () => {
-    return (
-        <div>
-            
-        </div>
-    );
+  return (
+    <div>
+      <div class="col">
+      {projects.map(project => (
+          <Project
+            siteLink={project.siteLink}
+            image={project.image}
+            name={project.name}
+            github={project.github}
+          />
+        ))}
+      </div>
+    </div>
+  );
 };
 
 export default Portfolio;
-// BELOW IS THE EXAMPLE CODE FOR THIS FILE TO CONDITIONALLY RENDER PORTFOLIO ENTRIES 
+// BELOW IS THE EXAMPLE CODE FOR THIS FILE TO CONDITIONALLY RENDER PORTFOLIO ENTRIES
 // import React from "react";
 // import { Link, Route } from "react-router-dom";
 // import Learn from "./Learn";
