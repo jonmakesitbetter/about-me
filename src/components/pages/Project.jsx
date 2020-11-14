@@ -9,7 +9,7 @@ const Project = (props) => {
 
           <div className="card project-card">
             <div className="img-container">
-              <a href={props.siteLink}><strong>{props.name}</strong></a>
+              <a href={props.siteLink}><strong>Project title: {props.name}</strong></a>
               <img class="project-image" alt={props.name} src={props.image} />
             </div>
             <div className="content">
@@ -23,5 +23,3 @@ const Project = (props) => {
 };
 
 export default Project;
-
-//props page to be rendered multiple times on a page

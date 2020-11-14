@@ -14,4 +14,3 @@ const Footer = () => {
 };
 
 export default Footer;
-//to appear on every page.
