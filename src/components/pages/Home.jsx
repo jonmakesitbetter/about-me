@@ -4,8 +4,7 @@ const Home = () => {
   return (
     <div className="home">
       <container className="row">
-        <div className="card col-sm-3">
-          <img className="card-img-top computer-icon" alt="Jonathan Peach" />
+        <div className="card col-sm-3 welcome">
           <div className="card-body">
             <h5 className="card-title">Welcome</h5>
             <p className="card-text">
@@ -15,7 +14,7 @@ const Home = () => {
             </p>
           </div>
         </div>
-        <article className="card col-sm-5">
+        <article className="card col-sm-5 welcome">
           <div className="card-body">
             <br />
             <br />
