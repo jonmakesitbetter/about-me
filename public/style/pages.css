@@ -41,3 +41,12 @@
     color: rgb(245, 173, 91);
     margin-top: 16rem;
 }
+
+.project-card{
+    margin: 3rem;
+}
+
+.project-image{
+    height: 100%;
+    width: 100%;
+}
