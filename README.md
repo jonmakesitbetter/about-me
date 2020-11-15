@@ -9,7 +9,8 @@
   [contributing](#Contributing)
   [questions](#Questions)
   ## Usage
-  Navigate to https://jonmakesitbetter.github.io/about-me/ and explore.
+  Navigate to https://jonmakesitbetter.github.io/about-me/ and explore..
+  ![About Me Home Page](public\images\about-me-home.png)
   ## License
   This project is under the MIT license. 
   ## Contributing

@@ -11,7 +11,7 @@ const Nabtabs = () => {
         <div className="card-body">
         <ul className="nav nav-tabs top-bar">
             <li className="nav-item">
-                <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+                <Link to="/about-me" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
                     Home
                 </Link>
             </li>
